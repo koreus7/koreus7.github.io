@@ -1,0 +1,12 @@
+# Site settings
+title: Leo Mahon
+email: lm1249@york.ac.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Creative Coding and interaction design. I code all sorts of things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Leo_Mahon
+github_username:  koreus7
+
+# Build settings
+markdown: kramdown
